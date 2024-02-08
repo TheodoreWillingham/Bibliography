@@ -1,5 +1,3 @@
-# cs1302-testRepo
-I am writing some useless stuff
+# Bibliography
 
-    Hopefully I become a rich software developer
-    Praise God
+Hello My name is Theodore Willingham. I have a passion for coding and creating new innovative tools to help society.
